@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Tweak</string>
+    <string name="log_tag">Tweak</string>
+
+    <!-- ToolTips -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Headers -->
+    <string name="settings">Settings</string>
+    <string name="configuration">Configuration</string>
+    <string name="about">About</string>
+
+    <!-- Navigation Selections -->
+    <string name="nav_cpu">CPU</string>
+    <string name="nav_cpu_voltage">CPU Voltage</string>
+    <string name="nav_hotplug">Hotplugs</string>
+
+    <!-- Errors -->
+    <string name="error_failed_to_write">Unable to Write to file: </string>
+    <string name="error_file_not_found">File Not Found: </string>
+    <string name="error_failed_to_read">Unable to Read from File: </string>
+    <string name="remote_service_exception">A remote exception occurred in the service.</string>
+    <string name="remote_service_unexpected_disconnect">Service has unexpectedly disconnected</string>
+
+</resources>
